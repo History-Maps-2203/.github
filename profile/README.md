@@ -1,4 +1,5 @@
 # History Maps
+![History maps logo 1](https://user-images.githubusercontent.com/99059063/182937623-b17a7972-f7e2-4147-960c-eeab0190070d.jpeg)
 
 ![ruby](https://img.shields.io/badge/Ruby-2.7.4-red)
 ![rails](https://img.shields.io/badge/Rails-5.2.8-red)
